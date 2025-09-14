@@ -1,5 +1,6 @@
 ﻿namespace TestingTheAdvencedGitActions;
 
-internal class Class2
+public class Class2
 {
+
 }
