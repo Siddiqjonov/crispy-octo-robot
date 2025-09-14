@@ -10,6 +10,9 @@
         public static void Method()
         {
             Console.WriteLine("method");
+            Console.WriteLine("method");
+            Console.WriteLine("method");
+            Console.WriteLine("method");
         }
     }
 }
