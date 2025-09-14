@@ -11,6 +11,7 @@
         {
             Console.WriteLine("method");
             Console.WriteLine("method");
+            Console.WriteLine("method");
         }
     }
 }
