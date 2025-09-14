@@ -6,7 +6,6 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("something new here");
-
         }
         public static void Method()
         {
