@@ -12,5 +12,6 @@
             Console.WriteLine("method");
             Console.WriteLine("method");
         }
+        public int MyProperty { get; set; }
     }
 }
